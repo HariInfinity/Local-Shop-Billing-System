@@ -19,5 +19,5 @@ src/ - Source code
 nbproject/ - NetBeans project configuration  
 
 ## Author
-Hari
+| Harshit Ghoghari |
 Computer Engineering Student
